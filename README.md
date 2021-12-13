@@ -21,7 +21,7 @@
 
 ## Steg 1 Variabler og operasjoner
 
-For å forstå hva en variabel er, kan vi tenke på en beholder eller boks som kan inneholde en eneste verdi. Det fins flere typer slike bokser (dvs. det fins flere datatyper)
+For å forstå hva en variabel er, kan vi tenke på en beholder eller boks som kan inneholde en eneste verdi. Det finnes flere typer slike bokser (dvs. det finnss flere datatyper)
 
 
 En variabel i JavaScript ser slik ut: 
@@ -30,7 +30,7 @@ En variabel i JavaScript ser slik ut:
 let variabelNavn = "verdi";
 ```
 
-let forteller JavaScript at det er en variabel. En variabel inneholder en verdi, som for
+'let' forteller JavaScript at det er en variabel. En variabel inneholder en verdi, som for
 eksempel tall eller tekst :
 
 ```javascript
