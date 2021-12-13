@@ -311,13 +311,20 @@ var grader = fahrenheitTilCelsius(77);
 
 ## Linker
 
-##### Gruppeoppgaver
-
+#### Gruppeoppgaver
+##### Konkuranse
 * [Gruppeoppgave 1](https://jsfiddle.net/Sion17/dfxuLan4/6/)
 * [Gruppeoppgave 2](https://jsfiddle.net/Sion17/7dc8nk6g/)
 * [Gruppeoppgave 3](https://jsfiddle.net/Sion17/Lg8n15jz/7/)
-* [Gruppeoppgave 4](https://jsfiddle.net/Sion17/4ugb05wy/16/)
-* [Gruppeoppgave 5](https://jsfiddle.net/Sion17/796rkwc8/1/)
+
+##### Ekstra oppgaver
+* [Intro HTML]
+* [Intro CSS]
+* [Lett blanding](https://jsfiddle.net/Sion17/796rkwc8/1/)
+* [Animasjon]
+* [Kalkulatoren](https://jsfiddle.net/Sion17/4ugb05wy/16/)
+
+
 
 
 ##### Feedback
