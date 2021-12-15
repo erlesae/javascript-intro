@@ -318,10 +318,9 @@ var grader = fahrenheitTilCelsius(77);
 * [Gruppeoppgave 3](https://jsfiddle.net/Sion17/Lg8n15jz/7/)
 
 ##### Ekstra oppgaver
-* [Intro HTML]
-* [Intro CSS]
+* [Intro HTML/CSS](https://jsfiddle.net/Sion17/Luh45kxw/76/)
 * [Lett blanding](https://jsfiddle.net/Sion17/796rkwc8/1/)
-* [Animasjon]
+* [Animasjon](https://jsfiddle.net/Sion17/xtpq9dL8/87/)
 * [Kalkulatoren](https://jsfiddle.net/Sion17/4ugb05wy/16/)
 
 
@@ -329,5 +328,5 @@ var grader = fahrenheitTilCelsius(77);
 
 ##### Feedback
 
-*   [Feedback](https://forms.gle/midgitN6RuUTRuxk7)
+*   [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSf2nb1euAKhzfKx73D5ZexjqgJLvqqCC0ySxS5fEOEOl55LdA/viewform?usp=sf_link)
 
