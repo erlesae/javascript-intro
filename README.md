@@ -316,16 +316,16 @@ var grader = fahrenheitTilCelsius(77);
 ## Linker
 
 #### Gruppeoppgaver
-##### Konkuranse
-* [Gruppeoppgave 1](https://jsfiddle.net/Sion17/dfxuLan4/6/)
-* [Gruppeoppgave 2](https://jsfiddle.net/Sion17/7dc8nk6g/)
-* [Gruppeoppgave 3](https://jsfiddle.net/Sion17/Lg8n15jz/7/)
+##### Obligatorisk
+* [Gruppeoppgave 1](https://jsfiddle.net/Sion17/dfxuLan4/24/)
+* [Gruppeoppgave 2](https://jsfiddle.net/Sion17/7dc8nk6g/3/)
+* [Gruppeoppgave 3](https://jsfiddle.net/Sion17/Lg8n15jz/11/)
 
-##### Ekstra oppgaver
-* [Intro HTML/CSS](https://jsfiddle.net/Sion17/Luh45kxw/76/)
-* [Lett blanding](https://jsfiddle.net/Sion17/796rkwc8/1/)
-* [Animasjon](https://jsfiddle.net/Sion17/xtpq9dL8/87/)
-* [Kalkulatoren](https://jsfiddle.net/Sion17/4ugb05wy/16/)
+##### Valgfrie Oppgaver
+* [Intro HTML/CSS (lett)](https://jsfiddle.net/Sion17/Luh45kxw/76/)
+* [Animasjon (guide)](https://jsfiddle.net/Sion17/xtpq9dL8/87/)
+* [JS+HTML (middels)](https://jsfiddle.net/Sion17/796rkwc8/1/)
+* [Kalkulatoren (vanskelig)](https://jsfiddle.net/Sion17/4ugb05wy/16/)
 
 
 
