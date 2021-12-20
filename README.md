@@ -133,6 +133,8 @@ Nå har vi fått prøvd ut litt forskjellige variabeler, da skal vi bruke dette 
 
 ## Steg 2 Valgsetninger
 
+Tøm innhold i JSFiddel før vi går videre.
+
 En if/else-setning ser slik ut i JavaScript:
 
 ```javascript
@@ -202,13 +204,15 @@ Eksempel:
 let date = new Date();
 let mnd = date.getMonth();
 let dag = date.getDate();
+let navn = "Sebastian"
 if(navn === "Sebastian" && mnd === 0 && dato === 20) { // mnd = måned, dato = dagen i måneden
     alert("Gratulerer med navnedagen, Sebastian!");
 }
 ```
 
 For at denne koden skal være sann må navnet være Sebastian og datoen må være 20.1, altså 20. Januar. getMonth() leverer ut et tall fra 0-11, derfor er Januar 0 og ikke 1.
-Samme kan du gjøre med || hvis du heller vil sjekke eller:
+&& betyr som sagt 'og' altså både påstanden på høyre og venstre side av && må vere sann.
+på lik linje har vi også || som betyr 'eller' altså påstanden er sann så lenge enten høyre eller venstre er sann:
 
 
 ```javascript
@@ -225,7 +229,7 @@ Legg merke til her at hvis datoen er 20.1 så hopper du inn til en ny if/else so
 
 
 ## Steg 3 Funksjoner
-Til nå har vi bare skrevet linjer med kode i JSfidle. Når koden kjøres, så blir den lest fra topp til bunn, linje for linje, så koden vil kjøre i den rekkefølgen den står i. Men noen ganger ønsker vi at koden skal kjøre når en hendelse inntreffer eller noe annet skjer. Ved hjelp av funksjoner kan vi selv bestemme når koden skal kjøre eller om den ikke skal kjøre i det hele tatt.
+Til nå har vi bare skrevet linjer med kode i JSFiddle. Når koden kjøres, så blir den lest fra topp til bunn, linje for linje, så koden vil kjøre i den rekkefølgen den står i. Men noen ganger ønsker vi at koden skal kjøre når en hendelse inntreffer eller noe annet skjer. Ved hjelp av funksjoner kan vi selv bestemme når koden skal kjøre eller om den ikke skal kjøre i det hele tatt.
 
 Oppsettet ser slik ut:
 
