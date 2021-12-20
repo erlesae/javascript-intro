@@ -323,7 +323,7 @@ var grader = fahrenheitTilCelsius(77);
 
 ##### Valgfrie Oppgaver
 * [Intro HTML/CSS (lett)](https://jsfiddle.net/Sion17/Luh45kxw/94/)
-* [Animasjon (guide)](https://jsfiddle.net/Sion17/xtpq9dL8/87/)
+* [Animasjon (guide)](https://jsfiddle.net/Sion17/xtpq9dL8/97/)
 * [JS+HTML (middels)](https://jsfiddle.net/Sion17/796rkwc8/1/)
 * [Kalkulatoren (vanskelig)](https://jsfiddle.net/Sion17/4ugb05wy/16/)
 
