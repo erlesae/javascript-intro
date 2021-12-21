@@ -124,7 +124,7 @@ Vi satte jo tall3 til å være lik tall2? men tall3 blir ikke endret selvom vi e
 Vi kan også legge til ekstra verdier til en variabel:
 
 ```javascript
-var tall4 = tall3 + tall1 + 5;
+let tall4 = tall3 + tall1 + 5;
 ```
 
 - [ ] 14. Bruk alert() til å skrive ut tall4. 
@@ -316,7 +316,7 @@ var grader = fahrenheitTilCelsius(77);
 ## Linker
 
 #### Gruppeoppgaver
-##### Obligatorisk
+##### IOT
 * [Gruppeoppgave 1](https://jsfiddle.net/Sion17/dfxuLan4/24/)
 * [Gruppeoppgave 2](https://jsfiddle.net/Sion17/7dc8nk6g/3/)
 * [Gruppeoppgave 3](https://jsfiddle.net/Sion17/Lg8n15jz/11/)
@@ -324,8 +324,8 @@ var grader = fahrenheitTilCelsius(77);
 ##### Valgfrie Oppgaver
 * [Intro HTML/CSS (lett)](https://jsfiddle.net/Sion17/Luh45kxw/94/)
 * [Animasjon (guide)](https://jsfiddle.net/Sion17/xtpq9dL8/97/)
-* [JS+HTML (middels)](https://jsfiddle.net/Sion17/796rkwc8/1/)
-* [Kalkulatoren (vanskelig)](https://jsfiddle.net/Sion17/4ugb05wy/16/)
+* [Sammenlign Variable (middels)](https://jsfiddle.net/Sion17/796rkwc8/9/)
+* [Kalkulatoren (vanskelig)](https://jsfiddle.net/Sion17/4ugb05wy/20/)
 
 
 
