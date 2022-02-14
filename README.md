@@ -196,23 +196,24 @@ let tid = dato.getHours(); // Henter timen (klokka) vi er i nå
  - [ ] 2.Bruk alert til å sjekke hva variabelen tid inneholder. 
 
 I en if(betingelse) kan vi sjekke flere ting samtidig ved å bruke && eller ||. 
-  -&& betyr og, 
-  -|| betyr eller.
+  -&& betyr "og" som vil si att begge påstander må vere sanne for at hele uttrykket skal bli sant, 
+  -|| betyr "eller" som i enten eller, det betyr at en av påstandene må vere san for at hele uttrykket skal være sant.
 
 Eksempel:
 ```javascript
 let date = new Date();
 let mnd = date.getMonth();
 let dag = date.getDate();
-let navn = "Sebastian"
-if(navn === "Sebastian" && mnd === 0 && dato === 20) { // mnd = måned, dato = dagen i måneden
+let navn = "Mathias"
+if(navn === "Mathias" && mnd === 1 && dato === 24) { // mnd = måned, dato = dagen i måneden
     alert("Gratulerer med navnedagen, Sebastian!");
 }
 ```
 
-For at denne koden skal være sann må navnet være Sebastian og datoen må være 20.1, altså 20. Januar. getMonth() leverer ut et tall fra 0-11, derfor er Januar 0 og ikke 1.
+For at denne koden skal være sann må navnet være Mathias og datoen må være 24.2, altså 24. Februar.
+getMonth() leverer ut et tall fra 0-11, derfor er Januar 0 og ikke 1.
 && betyr som sagt 'og' altså både påstanden på høyre og venstre side av && må vere sann.
-på lik linje har vi også || som betyr 'eller' altså påstanden er sann så lenge enten høyre eller venstre er sann:
+på lik linje har vi også || som betyr 'eller' altså påstanden er sann så lenge enten høyre eller venstre side er sann:
 
 
 ```javascript
