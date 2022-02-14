@@ -217,8 +217,8 @@ på lik linje har vi også || som betyr 'eller' altså påstanden er sann så le
 
 
 ```javascript
-if(mnd === 0 && dato === 20) {
-    if(navn === "Sebastian" || navn === "Fabian") {
+if(mnd === 1 && dato === 24) {
+    if(navn === "Mathias" || navn === "Mats") {
         alert("Gratulerer med navnedagen!");
     } else {
         alert("Du har dessverre ikke navnedag i dag.");
@@ -226,7 +226,7 @@ if(mnd === 0 && dato === 20) {
 }
 ```
 
-Legg merke til her at hvis datoen er 20.1 så hopper du inn til en ny if/else som sjekker om navnet ditt enten er Sebastian eller Fabian. Hvis det er feil dato skjer det ingenting.
+Legg merke til her at hvis datoen er 24.2 så hopper du inn til en ny if/else som sjekker om navnet ditt enten er Sebastian eller Fabian. Hvis det er feil dato skjer det ingenting.
 
 
 ## Steg 3 Funksjoner
