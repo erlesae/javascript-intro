@@ -319,7 +319,7 @@ var grader = fahrenheitTilCelsius(77);
 #### Gruppeoppgaver
 ##### IOT
 * [Gruppeoppgave 1](https://jsfiddle.net/Sion17/dfxuLan4/24/)
-* [Gruppeoppgave 2](https://jsfiddle.net/Sion17/7dc8nk6g/3/)
+* [Gruppeoppgave 2](https://jsfiddle.net/Sion17/7dc8nk6g/7/)
 * [Gruppeoppgave 3](https://jsfiddle.net/Sion17/Lg8n15jz/11/)
 
 ##### Valgfrie Oppgaver
