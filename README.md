@@ -309,7 +309,7 @@ Forklaring
    - Return betyr at funksjonen returnerer en verdi til brukeren som brukeren kan se, lagre eller bruke videre. La oss se på et eksempel:
 
 ```javascript
-var grader = fahrenheitTilCelsius(77);
+let grader = fahrenheitTilCelsius(77);
 ```
 
  - Koden over kjører funksjonen fahrenheitTilCelsius med paramenter 77. Funksjonen regner da ut hvor mange celsius 77 fahrenheit er og lagrer denne verdien i variabelen grader.
