@@ -312,7 +312,7 @@ Forklaring
 let grader = fahrenheitTilCelsius(77);
 ```
 
- - Koden over kjører funksjonen fahrenheitTilCelsius med paramenter 77. Funksjonen regner da ut hvor mange celsius 77 fahrenheit er og lagrer denne verdien i variabelen grader.
+ - Koden over kjører funksjonen fahrenheitTilCelsius med paramenter 77. Funksjonen regner da ut hvor mange celsius 77 fahrenheit er og lagrer denne verdien i variabelen grader. bruk alert for å skrive ut og se hvor mange celsius dette blir.
 
 ## Linker
 
