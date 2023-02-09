@@ -204,9 +204,9 @@ Eksempel:
 let date = new Date();
 let mnd = date.getMonth();
 let dag = date.getDate();
-let navn = "Mathias"
-if(navn === "Mathias" && mnd === 1 && dato === 24) { // mnd = måned, dato = dagen i måneden
-    alert("Gratulerer med navnedagen, Sebastian!");
+let navn = "Juliane"
+if(navn === "Juliane" && mnd === 1 && dato === 16) { // mnd = måned, dato = dagen i måneden
+    alert("Gratulerer med navnedagen, Juliane!");
 }
 ```
 
@@ -217,8 +217,8 @@ på lik linje har vi også || som betyr 'eller' altså påstanden er sann så le
 
 
 ```javascript
-if(mnd === 1 && dato === 24) {
-    if(navn === "Mathias" || navn === "Mats") {
+if(mnd === 1 && dato === 16) {
+    if(navn === "Juliane" || navn === "Jill") {
         alert("Gratulerer med navnedagen!");
     } else {
         alert("Du har dessverre ikke navnedag i dag.");
@@ -226,7 +226,7 @@ if(mnd === 1 && dato === 24) {
 }
 ```
 
-Legg merke til her at hvis datoen er 24.2 så hopper du inn til en ny if/else som sjekker om navnet ditt enten er Sebastian eller Fabian. Hvis det er feil dato skjer det ingenting.
+Legg merke til her at hvis datoen er 16.2 så hopper du inn til en ny if/else som sjekker om navnet ditt enten er Juliane eller Jill. Hvis det er feil dato skjer det ingenting.
 
 
 ## Steg 3 Funksjoner
