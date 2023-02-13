@@ -210,7 +210,7 @@ if(navn === "Juliane" && mnd === 1 && dato === 16) { // mnd = måned, dato = dag
 }
 ```
 
-For at denne koden skal være sann må navnet være Mathias og datoen må være 24.2, altså 24. Februar.
+For at denne koden skal være sann må navnet være Juliane og datoen må være 16.2, altså 16. Februar.
 getMonth() leverer ut et tall fra 0-11, derfor er Januar 0 og ikke 1.
 && betyr som sagt 'og' altså både påstanden på høyre og venstre side av && må vere sann.
 på lik linje har vi også || som betyr 'eller' altså påstanden er sann så lenge enten høyre eller venstre side er sann:
