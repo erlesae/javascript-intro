@@ -204,9 +204,9 @@ Eksempel:
 let date = new Date();
 let mnd = date.getMonth();
 let dag = date.getDate();
-let navn = "Juliane"
-if(navn === "Juliane" && mnd === 1 && dato === 21) { // mnd = måned, dato = dagen i måneden
-    alert("Gratulerer med navnedagen, Selma,Samuel og Celine!");
+let navn = "Selma"
+if(navn === "Selma" && mnd === 1 && dato === 21) { // mnd = måned, dato = dagen i måneden
+    alert("Gratulerer med navnedagen, Selma!");
 }
 ```
 
