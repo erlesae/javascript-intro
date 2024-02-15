@@ -205,8 +205,8 @@ let date = new Date();
 let mnd = date.getMonth();
 let dag = date.getDate();
 let navn = "Juliane"
-if(navn === "Juliane" && mnd === 1 && dato === 16) { // mnd = måned, dato = dagen i måneden
-    alert("Gratulerer med navnedagen, Juliane!");
+if(navn === "Juliane" && mnd === 1 && dato === 21) { // mnd = måned, dato = dagen i måneden
+    alert("Gratulerer med navnedagen, Selma,Samuel og Celine!");
 }
 ```
 
@@ -217,8 +217,8 @@ på lik linje har vi også || som betyr 'eller' altså påstanden er sann så le
 
 
 ```javascript
-if(mnd === 1 && dato === 16) {
-    if(navn === "Juliane" || navn === "Jill") {
+if(mnd === 1 && dato === 21) {
+    if(navn === "Samuel" || navn === "Selma" || navn === "Celine") {
         alert("Gratulerer med navnedagen!");
     } else {
         alert("Du har dessverre ikke navnedag i dag.");
